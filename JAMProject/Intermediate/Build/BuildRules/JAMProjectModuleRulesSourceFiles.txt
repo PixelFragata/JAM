@@ -1,0 +1,3 @@
+/Users/renatozane/Documents/Fragata/JAM/JAMProject/Source/JAMProject/JAMProject.Build.cs
+/Users/renatozane/Documents/Fragata/JAM/JAMProject/Source/JAMProject.Target.cs
+/Users/renatozane/Documents/Fragata/JAM/JAMProject/Source/JAMProjectEditor.Target.cs
