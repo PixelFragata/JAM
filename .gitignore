@@ -1,0 +1,33 @@
+
+# Created by https://www.gitignore.io/api/unrealengine
+
+### UnrealEngine ###
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+
+#meus
+dump.txt
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipa
+*.apk
+
+
+# Precompiled Assets
+SourceArt/**/*.png
+SourceArt/**/*.tga
+
+
+uBombardier/Saved/
+
+uBombardier/Intermediate/
+
+uBombardier/Plugins/AdCollection/Intermediate/
