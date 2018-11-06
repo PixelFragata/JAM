@@ -26,8 +26,8 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 
-uBombardier/Saved/
+JAMProject/Saved/
 
-uBombardier/Intermediate/
+JAMProject/Intermediate/
 
-uBombardier/Plugins/AdCollection/Intermediate/
+JAMProject/Plugins/AdCollection/Intermediate/
