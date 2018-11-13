@@ -394,18 +394,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Content/Slate/Common/Scrollbar_Background_Horizontal.png",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Content/Slate/Common/Scrollbar_Background_Vertical.png",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Content/Slate/Common/Scrollbar_Thumb.png",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Content/Slate/Common/ScrollBorderShadowBottom.png",
 			"Type": "UFS"
 		},
@@ -427,6 +415,18 @@
 		},
 		{
 			"Path": "$(EngineDir)/Content/Slate/Common/ScrollBoxShadowTop.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Common/Scrollbar_Background_Horizontal.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Common/Scrollbar_Background_Vertical.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Common/Scrollbar_Thumb.png",
 			"Type": "UFS"
 		},
 		{
@@ -886,6 +886,30 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Content/Slate/Icons/DefaultAppIcon.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Icons/Empty_14x.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Icons/NextIcon.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Icons/PlusSymbol_12x.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Icons/TrashCan.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Icons/TrashCan_Small.png",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Content/Slate/Icons/cursor_cardinal_cross.png",
 			"Type": "UFS"
 		},
@@ -894,19 +918,11 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Content/Slate/Icons/DefaultAppIcon.png",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Content/Slate/Icons/denied_16x.png",
 			"Type": "UFS"
 		},
 		{
 			"Path": "$(EngineDir)/Content/Slate/Icons/ellipsis_12x.png",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Content/Slate/Icons/Empty_14x.png",
 			"Type": "UFS"
 		},
 		{
@@ -938,15 +954,15 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Content/Slate/Icons/icon_tab_toolbar_16px.png",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Content/Slate/Icons/icon_tab_WidgetReflector_16x.png",
 			"Type": "UFS"
 		},
 		{
 			"Path": "$(EngineDir)/Content/Slate/Icons/icon_tab_WidgetReflector_40x.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Icons/icon_tab_toolbar_16px.png",
 			"Type": "UFS"
 		},
 		{
@@ -958,10 +974,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Content/Slate/Icons/NextIcon.png",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Content/Slate/Icons/notificationlist_fail.png",
 			"Type": "UFS"
 		},
@@ -970,19 +982,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Content/Slate/Icons/PlusSymbol_12x.png",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Content/Slate/Icons/toolbar_expand_16x.png",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Content/Slate/Icons/TrashCan.png",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Content/Slate/Icons/TrashCan_Small.png",
 			"Type": "UFS"
 		},
 		{
@@ -1181,19 +1181,19 @@
 	"AdditionalProperties": [
 		{
 			"Name": "AndroidPlugin",
-			"Value": "Plugins\\Runtime\\AndroidPermission\\Source\\AndroidPermission\\AndroidPermission_APL.xml"
+			"Value": "Plugins/Runtime/AndroidPermission/Source/AndroidPermission/AndroidPermission_APL.xml"
 		},
 		{
 			"Name": "AndroidPlugin",
-			"Value": "Plugins\\Runtime\\GoogleCloudMessaging\\Source\\GoogleCloudMessaging\\GoogleCloudMessaging_UPL.xml"
+			"Value": "Plugins/Runtime/GoogleCloudMessaging/Source/GoogleCloudMessaging/GoogleCloudMessaging_UPL.xml"
 		},
 		{
 			"Name": "AndroidPlugin",
-			"Value": "Plugins\\Runtime\\Oculus\\OculusVR\\Source\\OculusHMD\\GearVR_APL.xml"
+			"Value": "Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/GearVR_APL.xml"
 		},
 		{
 			"Name": "AndroidPlugin",
-			"Value": "Source\\Runtime\\Online\\Voice\\AndroidVoiceImpl_UPL.xml"
+			"Value": "Source/Runtime/Online/Voice/AndroidVoiceImpl_UPL.xml"
 		},
 		{
 			"Name": "SDK",
